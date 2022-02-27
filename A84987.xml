@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation concerning the wonderfull and wholsome fountain· At first discovered in Germany, two miles from the city of Halberstadt, by a certaine youth upon the fifth of March 1646. as he was comming from schoole. And now dispersed into fifteen severall springs. With a specification of those persons, which (as certaine letters do informe) through Gods assistance and blessing, were in a very short time cured by use of these waters. A list of the diseases, how long the diseased had them, with the place of their birth and abode. And the forme of the prayer, which daily after the sermon, and set houres of devotion is usually said.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84987</idno>
+            <idno type="STC">Wing F2355</idno>
+            <idno type="STC">Thomason E357_9</idno>
+            <idno type="STC">ESTC R201150</idno>
+            <idno type="EEBO-CITATION">99861698</idno>
+            <idno type="PROQUEST">99861698</idno>
+            <idno type="VID">113839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E357[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation concerning the wonderfull and wholsome fountain· At first discovered in Germany, two miles from the city of Halberstadt, by a certaine youth upon the fifth of March 1646. as he was comming from schoole. And now dispersed into fifteen severall springs. With a specification of those persons, which (as certaine letters do informe) through Gods assistance and blessing, were in a very short time cured by use of these waters. A list of the diseases, how long the diseased had them, with the place of their birth and abode. And the forme of the prayer, which daily after the sermon, and set houres of devotion is usually said.</title>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Joshua Kirton, and are to be sold at his shop at the signe of the White Horse in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Springs --  Germany --  Halberstadt --  Early works to 1800.</term>
+               <term>Mineral waters --  Germany --  Halberstadt --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113839:1"/>
+            <pb facs="tcp:113839:1" rendition="simple:additions"/>
+            <p> A FVLL RELATION CONCERNING The wonderfull and wholſome FOUNTAIN.</p>
+            <p>At firſt Diſcovered in <hi>Germany,</hi> two miles from the City of <hi>Halberſtadt,</hi> by a certaine Youth upon the fifth of <hi>March</hi> 1646. as he was comming from Schoole.</p>
+            <p>And now diſperſed into fifteen ſeverall Springs.</p>
+            <p>With a ſpecification of thoſe perſons, which (as certaine Letters do informe) through Gods aſſiſtance and bleſſing, were in a very ſhort time Cured by uſe of theſe Waters.</p>
+            <p>A Liſt of the Diſeaſes, how long the Diſeaſed had them, with the place of their birth and abode.</p>
+            <p>And the forme of the Prayer, which daily after the Sermon, and ſet houres of Devotion is uſually ſaid.</p>
+            <p>LONDON, Printed by <hi>T. W.</hi> for <hi>Joſhua Kirton,</hi> and are to be ſold at his ſhop at the ſigne of the White Horſe in <hi>Pauls</hi> Church-yard. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113839:2"/>
+            <pb n="1" facs="tcp:113839:2"/>
+            <head>A true Diſcription of the wonder<g ref="char:EOLhyphen"/>full and wholeſome Wells at <hi>Hornehauſen</hi> in <hi>Germanie</hi> in the Biſhopricke of <hi>Halberſtadt.</hi>
+            </head>
+            <head type="sub">Collected out of ſeverall Letters from <hi>Hornehau<g ref="char:EOLhyphen"/>ſen, Stettin, Hanburg, Bremen</hi> and other adjacent parts.</head>
+            <head type="sub">Of the 12. of <hi>Iuly</hi> and 18. of <hi>Auguſt.</hi> 1646.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He village wherein theſe wonderfull and wholeſome Wells are, is called <hi>Horn<g ref="char:EOLhyphen"/>hauſen</hi> half a mile diſtant from <hi>Aſhersle<g ref="char:EOLhyphen"/>ben</hi> and two miles from the City of <hi>Hal<g ref="char:EOLhyphen"/>berſtadt,</hi> ſtanding in a bottome or valley, betweene two little Hills, one towards the Eaſt, and the other towards the Weſt, conſiſting at this preſent not of above fifty Boores or tenants, whereas in former times there were at leaſt a hundred and fifty of them.</p>
+            <p>The Miniſters name is <hi>Friderick Seligman;</hi> who was borne at <hi>Brunſwigg.</hi> There are now ſix Wells in the
+<pb n="2" facs="tcp:113839:3"/> ſaid Village, whereof but three are uſed. The firſt as be<g ref="char:EOLhyphen"/>ing the head ſpring on the fifth day of <hi>March.</hi> 1646. and was diſcovered by a youth comming from ſchoole who accidentally fell into it with one of his legs. He that firſt of all dranke of it was one, that had beene troubled with an Ague for a long time, and in a very ſhort time after he had drunke of it, he recovered. The ſecond ſpring on <hi>Midſummerday</hi> the 24. of <hi>Iune.</hi> And the third and fourth few dayes after. The fifth and ſixth on the even of our Ladyes Viſitation, but eſpecially the ſixth, du<g ref="char:EOLhyphen"/>ring the time of publicke devotion. The firſt is as large, as a round table the ſecond and third halfe as large but they yeeld all three ſuch a quantitie and aboundance of water, that it is a wonderfull ſight to all that have bin there. There is a diſtance of forty paces or thereabouts betweene each of theſe Wells. Concerning their ver<g ref="char:EOLhyphen"/>tues, effects and operations, it is certaine, that they are moſt miraculous, and anſwerable to the reportes that have bin noiſed both within the Empire, and diſperſed beyond Seas, It is moſt true, that one Girle of <hi>Mansfeld,</hi> which was dumbe and deafe from her youth did reco<g ref="char:EOLhyphen"/>ver, ſo that ſhe was beard of many, when ſhe ſaid after with good ſenſe and underſtanding this paſſage of the Scripture, <hi>The Blood of Ieſus Chriſt doth cleanſe us from all our ſins.</hi> Likewiſe a certaine Man, who was blind, and uſed to begge before the Gates at <hi>Leipzig,</hi> hath beene ſeene of ſome within few dayes, teſtiying that he could ſee with one of his eyes all things, and full as well as any Man that is ſharpeſighted. In ſumm, ſuch wonderfull Cures happen every day, As the weekely thankſgivings after the Sermon, doe give a ſufficient te<g ref="char:EOLhyphen"/>ſtimony of them.</p>
+            <pb n="3" facs="tcp:113839:3"/>
+            <p> Not long agoe, as wee are certainly informed, there hath been publick thanks-giving for the recovery of a hundred and twenty ſeven perſons at once, whereof there were thirty ſeven that had the Falling ſickneſſe. And a woman with a crooked back, which ſhee had twenty yeares. And laſt moneth there was another pub<g ref="char:EOLhyphen"/>lick thankes-giving ſaid for foureſcore perſons, which were all cured of very ſtrange Diſeaſes and Infir<g ref="char:EOLhyphen"/>mities.</p>
+            <p>Beſides, the three principall Wells are not of one taſte, notwithſtanding they are of one colour; The firſt is counted for the ſweeteſt, and for this reaſon, it cannot be tranſported farre over land; The other is very ſalt, having ſixe or eight Springs, with a ſandy ground, not above a yard diſtant from a brooke; The third is of a middle taſte between the firſt and ſecond. The water of the ſecond is eſpecially good, and excellent for any outward hurts and ſores. There are many that have been reſtored to their former ſight (as the publick thanks<g ref="char:EOLhyphen"/>givings for them doth teſtifie) which had loſt their ſights quite by the ſmall pox; And we received but juſt now Letters from the Schoolemaſter there that informe us that already ſix hundred ſicke bodies, of ſeverall diſeaſes, were recovered by drinking of the ſaid Wells for the ſpace of eight or nine dayes. Certainly thoſe that have been there preſent relate, that Gods wonder<g ref="char:EOLhyphen"/>full workes, might, power, mercy and goodneſſe is evi<g ref="char:EOLhyphen"/>dently to be ſeene there, in theſe infirme and diſeaſed Creatures, which by the drinking of this precious Wa<g ref="char:EOLhyphen"/>ter, were made whole, eſpecially that were afflicted with theſe ſickneſſes following. As with the Gout, Feavers, Agues, Deafneſſe, French pox, Crook-backs,
+<pb n="4" facs="tcp:113839:4"/> Wormes, Blindneſſe, Dumbneſſe, Cholicke, Swollen legges, lameneſſe in ſhoulders, hands and feet<g ref="char:punc">▪</g> Scurffed and ſcabby heads, all ſorts of old feſtered hurts, Biles and ſores, Plureſie, ſore eyes, Dropſie, diſ-joynted limmes, and ſtrained Sinewes and veines, ill ſtomacke, Palpitation or beating of the heart, Apoplexi, Palſie, bitings of Dogs, broken armes or legs, Shooting in the head and eares, Short and dim ſight, Tooth-ach, Con<g ref="char:EOLhyphen"/>vulſions, Bruiſes and falls, Fiſtulaes &amp; running ſores, Me<g ref="char:EOLhyphen"/>lancholick thoughts, Leproſie, defects in the Liver and Lights; Coughs, Headach, bloody Flux or iſſue, Rup<g ref="char:EOLhyphen"/>tures, Wennes, Carnoſities, Impoſtumes in the Kid<g ref="char:EOLhyphen"/>neys, Cancers, Guidineſſe, with many other Di<g ref="char:EOLhyphen"/>ſeaſes and infirmities, which would bee too long to ſpecifie.</p>
+            <p>Moreover, there are at this preſent above five thou<g ref="char:EOLhyphen"/>ſand perſons come there, of all ſorts, ranke and condi<g ref="char:EOLhyphen"/>tion from all parts of <hi>Germanie,</hi> as <hi>Nuenberg, Au<g ref="char:EOLhyphen"/>ſpurg, Munchen, Hanburg, Bremen, Stetin, &amp;c.</hi> with a world of Coaches and Wagons; ſo that Travellers ſometimes find difficultie to be furniſhed with Horſes. His Highneſſe the Prince Elector of <hi>Brandenburg,</hi> with his Mother and Aunt, Her Majeſty the Queene of <hi>Sweden,</hi> are gone thither; And wee are informed that Generall <hi>Torſtenſon,</hi> (who by reaſon of his indiſpoſiti<g ref="char:EOLhyphen"/>on in his body, was conſtrained to reſigne his Com<g ref="char:EOLhyphen"/>mand to <hi>Wrangel)</hi> went thither in a Litter, and came a<g ref="char:EOLhyphen"/>way on horſe-back fully recovered.</p>
+            <p>Beſides, we are of late informed, that by Gods infi<g ref="char:EOLhyphen"/>nite power and mercy thoſe three principall Wells are multiplied and diſperſed into fifteene all at a diſtance of fourty paces one from another. They write alſo, that
+<pb n="5" facs="tcp:113839:4"/> the Phyſitians have diſtilled the ſame Water, and found pure gold thereby. It is to be feared, that if men ſhould not be ſatisfied with the grace and mercy of God, that God ſhall withdraw his bleſſing, and turne it into a judgement. And for the obtaining of Gods bleſſing, at ſet houres in the morning, at eight of the clocke, and in the evening at 3, prayers are duly and conſtantly per<g ref="char:EOLhyphen"/>formed in the preſence of ſo many thouſand perſons who altogether fall downe upon their knees, praying with the Miniſter after this manner following.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:113839:5"/>
+            <head>
+               <hi>The Prayer which is uſually ſaid at the Fountaine of</hi> Hornhauſen.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty God, mercifull Father, wee thy weake, diſeaſed, infirme and miſerable chil<g ref="char:EOLhyphen"/>dren doe appeare here with ſad, afflicted, and diſtreſſed countenances before thy moſt holy throne of Grace, bowing the knees of our hearts, acknowledging and lamenting our manifold enormous ſinnes and tranſgreſſions, wherewith we have ſinned againſt thee, O moſt righteous God, provoked thy wrath, which is like the burning and conſuming fire, and drawne upon our ſelves, all ſorts of judgements and plagues; ſo that thou haſt not onely viſited us with the Sword Perſecution, Dearth and other puniſh<g ref="char:EOLunhyphen"/>ments, but alſo haſt chaſtened<g ref="char:punc">▪</g> handled and afflicted our bodyes with ſeverall Diſeaſes, Sores and Infirmities, and thereby haſt fulfilled, wherewith thou haſt threatned us in thy Word long agoe; that who<g ref="char:EOLhyphen"/>ſoever ſinneth againſt his Creatour, ſhall fall into the hands of the Phyſitian. Now, Lord, mee muſt confeſſe, that wee have not onely juſtly deſerved all theſe, but yet farre greater and heavier judge<g ref="char:EOLhyphen"/>ments; yea withall that thou alſo in the middeſt of thy wrath and indignation doſt ſhew mercy, for if thou wouldeſt have dealt with us after our deſerts, thou mighteſt have totally conſumed and deſtroyed us in our ſins, without giving us any reſpight for our repentance; whereas thou haſt bin pleaſed not onely to prolong our dayes, that we might re<g ref="char:EOLhyphen"/>pent of our ſinful &amp; wicked courſe of life, but alſo as a loving Father, to chaſtiſe and humble us with thy Fatherly rod of diſeaſes and infir<g ref="char:EOLhyphen"/>mities, like as a temporall Father doth chaſtiſe his ſonnes, that thereby
+<pb n="7" facs="tcp:113839:5"/> wee might be induced and ſeaed up to repentance: For our great cala<g ref="char:EOLhyphen"/>mitie and miſery doth compell us to draw nigh unto thee; Wherefore we come and call upon thee, O Lord, in our diſtreſſes, and in our of<g ref="char:EOLhyphen"/>flictions wee lift up our voyce, and powre out our ſupplications be<g ref="char:EOLhyphen"/>fore thee: Pardon us, O Lord, pardon us our ſinnes; Have mercy upon us, and blot out all our tranſgreſſions; and forgive our ſecret ſinnes for the love of thy Deare Sonne Jeſus Chriſt. And becauſe our weakneſſes and infirmities are not hidden before thy eyes; yea, thy beloved Sonne, our Lord and Saviour hath aſſumed upon himſelfe, and borne our weakneſſes and infirmities, to the end that hee might ſhew mercy and helpe to thoſe that were afflicted; Wee be<g ref="char:EOLhyphen"/>ſeech Thee therefore, O mercifull Father, have mercy and compaſ<g ref="char:EOLhyphen"/>ſion on our miſery. Take to heart our manifold afflictions, infirmi<g ref="char:EOLhyphen"/>ties and diſeaſes. O Lord Jeſus Chriſt, true God; that knoweſt our diſtreſſe and miſerie; eaſe us of our heavy burthen, which thou haſt borne thy ſelfe And whereas thou as being the true Phyſician of ſoules, removeſt and cureſt not onely the ſickneſſe of ſoules, fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>give<g ref="char:EOLhyphen"/>eſt ſinnes, and cleanſeſt and waſheſt our filth and pollution in the wholſome Fountaine of the blood and grace of Ieſus Chriſt, but alſo thou onely canſt heale the infirmities of our bodyes, to which effect thou haſt infuſed thy wonderfull vertues, and heavenly opa<g ref="char:EOLhyphen"/>rations into the Elements, Minerals, Herbes, Flowers, and other Plants, wherewith thou removeſt all ſorts of ſickneſſes, as thou haſt healed by the meanes of a lump of figgs, the venemous and mortall boyle of King <hi>Hezekiah;</hi> Wee therefore beſeech Thee, O heavenly Father, to magnifie thy mercy alſo in us; by granting us thy grace, that according to thy Fatherly and good pleaſure, ſince thou knoweſt alone what is for our beſt, this wholſome Fountaine, which thou haſt opened and diſcovered unto us poore and unworthy ſinners, out of thy meere grace, may powre unto us a powerfull and gracious helpe and remedy for the recovery of our health. Lord, thou art Hee, that haſt life and death, health and ſickneſſe in thy hands, that kil<g ref="char:EOLhyphen"/>leſt, and makeſt alive againe, and bringeſt men alone to the grave and deſtruction, and ſayeſt remaine the children of men; Wherefore it is nothing to thee to helpe us here thy unworthy creatures. And as thou prolongd'ſt the life of King <hi>Hezekiah,</hi> even when hee was at deaths doore. As thou reſtoredſt the ſight to him that was borne
+<pb n="8" facs="tcp:113839:6"/> blind with clay made of ſpittle, and ſendeſt him to waſh himſelfe in the Poole of <hi>Siloam;</hi> As thou healedst <hi>Peters</hi> Mother in law lying ſick of a Feaver by touching onely her hand: As thou helpedſt the Woman that was troubled with the bloudy iſſue, by touching the Seame of thy garment: Yea, as thou haſt miraculouſly reſtored health and ſtrength to many others: So it may pleaſe thee, to ſanctifie and bleſſe by thy infinite bounty and mercifulneſſe the vſe of this Water unto us, that if it be thy holy will our Infirmities and diſeaſes may there<g ref="char:EOLhyphen"/>by be healed and removed. As the water of <hi>Jordan</hi> ſerved for the healing of <hi>Naamans</hi> Leproſie, and conduced to the recovery of his health; So be pleaſed, O good Lord to grant the ſame wholſome vertue and power to this Water. Many ſuch, blind, lame, and other infirme bodies were gathered together at the Poole of <hi>Be<g ref="char:EOLhyphen"/>theſda,</hi> which waited on till the water was moved by the Angell, that then they might deſcend into it and bee healed. O Lord, looke likewiſe in thy mercy upon this infirme and weake multitude of people, waiting for thy helpe and bleſſing. O that it may pleaſe thee, to move alſo this water through thy Di<g ref="char:EOLhyphen"/>vine power, that it may likewiſe have the ſame vertue and operati<g ref="char:EOLhyphen"/>on with us, to the reſtoring of our health. Thou commandeſt us, Lord in thy Word, that if any man be ſicke or infirme, hee ſhall call upon thee, and then thou wilt heare him, according to his faith, and give thy bleſſing to the meanes and remedies he ſhall apply. Now, behold, O Lord, wee are here proſtrate in thy fight, with our faith<g ref="char:EOLhyphen"/>full prayers and ſupplications, not relying upon our righteouſneſſe, and holineſſe but truſting to thy great mercy, that thou wilt heare us, according to thy promiſe: Yea Lord, thou doſt teſtifie thy ſelfe, that hee that aske<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, ſhall receive; he that ſeeketh ſhall find; and to him that knocketh ſhall be opened: Wherefore wee beſeech thee, for our health, grant us the ſame by thy grace: Wee ſeeke thee, as our Phy<g ref="char:EOLhyphen"/>ſitian, be gratious and propitious unto us; Wee knocke with our una<g ref="char:EOLhyphen"/>nimous prayer, and fervent ſupplications, at the doore of thy heaven<g ref="char:EOLhyphen"/>ly throne, till they penetrate through the cloudes. O Lord, open thy doore of grace, and heare us from Heaven, whether we lift up our eyes and hands. Let our faces not be confounded, for if thou ſhouldſt reject us, who would receive us? if thou ſhouldeſt abandon and for<g ref="char:EOLhyphen"/>ſake us, who would helpe us? Yet, if thou haſt decreed in thy eternall
+<pb n="9" facs="tcp:113839:6"/> and unchangeable decree and will, that theſe infirmities and weakneſ<g ref="char:EOLhyphen"/>ſes ſhall lie longer upon us; Thy will be done, O Lord, and give us patience, that wee may not murmur againſt it, nor envy others, that are healed, but ſubmit our ſelves with all obedience to thy good plea<g ref="char:EOLhyphen"/>ſure, and having our confidence and truſt put in thy mercy and grace, may ſay with <hi>Job;</hi> O Lord, although thou ſhouldeſt kill us, yet wee will put our truſt in thee; Wee are ſure thou wilt not lay a heavyer burthen upon our ſhoulders, then wee ſhall be able to beare, but that thou wilt aſſiſt and relieve us in the middeſt of our calamities with thy holy and bleſſed Spirit, which may comfort us in our afflictions, refreſh us in adverſities, remove our paines and torments, and deli<g ref="char:EOLhyphen"/>ver us out of all diſtreſſe and miſerie. Moreover, O moſt mercifull Father, ſince thou haſt been pleaſed to ſhew thy ſelfe thus glorious and wonderfull through thy infinite goodneſſe and grace in this place towards us unworthy and miſerable ſinners, by giving and diſcove<g ref="char:EOLhyphen"/>ring unto us ſuch a precious and powerfull remedy for the recovery of our health, whereby already great wonders have beene wrought, ſo that wee are not able to expreſſe our thankefulneſſe unto thee in all eternitie. Wee beſeech thee therefore from the bottome of our hearts, that thou wouldeſt not withdraw from us theſe heavenly gifts and bleſſings, if we ſhould not thankefully acknowledge them, from which in mercy thou wilt be pleaſed to preſerve us, but vouchſafe that this Fountaine of grace may flow and guſh out more and more, without drying up or diminiſhing. O Lord grant this Fountaine may yeeld water in abundance, with a conſtant and durable vertue, that there<g ref="char:EOLhyphen"/>by our miſerable and weake bodies may receive comfort and helpe, and thy name be exalted and magnified throughout all Nations. Wee beſeech thee, O Almighty God and Father, to heare this our prayer, through Ieſus Chriſt thy Deare Sonne, to whom with thee and the holy Ghoſt, be aſcribed all honour and glory, for ever and ever, Amen.</p>
+         </div>
+         <div type="list">
+            <pb n="10" facs="tcp:113839:7"/>
+            <head>A liſt of thoſe perſons, which as we are certain<g ref="char:EOLhyphen"/>ly informed, have through Gods bleſſing bin cured by the uſe of the ſaid Waters.</head>
+            <list>
+               <item>1. ONe that was cured of a feaver, namely he that dranke firſt of all of this water, as above ſaid.</item>
+               <item>2. A Girle of <hi>Mansfeld,</hi> which was dumbe and deafe as above ſaid.</item>
+               <item>3. A Woman that had a crookebacke for the ſpace of twenty yeares as above ſaid.</item>
+               <item>4. A Beggar of <hi>Leipzig,</hi> that was blind, as above ſaid.</item>
+               <item>5. One that was extreamly troubled with the cholick, and had a ſwollen leg.</item>
+               <item>6. A Woman borne at <hi>Egeln,</hi> which had a dangerous hurt in her leg, for the ſpace of ſix yeares.</item>
+               <item>7. A Woman borne at <hi>Egeln,</hi> which had a painfull ſwelling in her left ſide cauſed by a dangerous fall.</item>
+               <item>8. One borne at <hi>Egeln,</hi> that from his Infancy had a lameneſſe both in one of his thighs and leggs.</item>
+               <item>9. A Girle borne at <hi>Egeln,</hi> which had a ſwellen leg.</item>
+               <item>10. and 11. Two Girles which had ſcurffed heads.</item>
+               <item>12. Another Girle of <hi>Egeln,</hi> of ſeventeene yeares of age had a crooke backe with an old ſore in it.</item>
+               <item>13. A Girle of three yeares of age, which endured great paines in her Armes thighes and legs.</item>
+               <item>14. A Boy which from his infancy was ſtruken with the palſie.</item>
+               <item>15. A Woman borne at <hi>Egeln,</hi> which had an old hurt in one of her leggs for a twelve moneth.</item>
+               <pb n="11" facs="tcp:113839:7"/>
+               <item> 16. Another Woman of <hi>Egeln,</hi> which felt great pain<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and ſtit<g ref="char:EOLhyphen"/>ching in her ſide.</item>
+               <item>17. A Woman borne in <hi>Sileſia,</hi> who ſprained her foot, whereof the ſinnews of her anckle were hurt and diſplaced.</item>
+               <item>18. A Woman borne at <hi>Towin,</hi> that had a ſore eye for the ſpace of ſeven yeares, and hurt her hipp,</item>
+               <item>19. A Woman of <hi>K<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tchſtett</hi> that had a ſore eye for twenty yeares, and her face broken out five yeares.</item>
+               <item>20. An Old Man, of <hi>Gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ningen</hi> that endured great paines in his body, and had a ſwolln leg.</item>
+               <item>21. A Woman, that had great ſtitches in her croſſe-bone.</item>
+               <item>22. A Woman of <hi>Taitin,</hi> that was troubled with a ſcurffed head:</item>
+               <item>23. A Man of <hi>Eglen,</hi> which had great paines in one of his eye, and the cholicke.</item>
+               <item>24. A Woman of <hi>Eulenſtet,</hi> which had the Dropſe for a whole yeare.</item>
+               <item>25. A Man of <hi>Quedlinburg,</hi> that was troubled for halfe a yeare, with great ſtitches in his ſide.</item>
+               <item>26. A Woman of <hi>Haderſleben,</hi> which had a lamneſſe in both her legs, ſent for the water, and was cured.</item>
+               <item>27. A Man of <hi>Bernſtorff,</hi> which had old ſores in both his legs.</item>
+               <item>28. A Child of <hi>Hammerſleben,</hi> which had a rupture.</item>
+               <item>29. A Boy of <hi>Egeln,</hi> which had a ſcurffed head.</item>
+               <item>30. A Woman that had a ſore in her mouth.</item>
+               <item>31. A Woman of <hi>Stolberg,</hi> that had a ſore eye for the ſpace of ten yeares.</item>
+               <item>32. A Servant of <hi>Laugen Weddig,</hi> which had the Convulſion fits.</item>
+               <item>33. A Woman of <hi>Allerdriff,</hi> that was troubled with the Stone.</item>
+               <item>34. A Woman of <hi>Salz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> which had a craſie body for a long time.</item>
+               <item>35. Another Woman of <hi>Salz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> which had an ague above a yeare with a ſwollen leg.</item>
+               <item>36. A Woman of <hi>Seehauſen,</hi> which had a defect in her hearing.</item>
+               <item>37. A Woman of <hi>Egeln,</hi> which was lambe in one of her hipps for many yeares.</item>
+               <item>38. A Man of <hi>Egeln,</hi> which had a ſcurffed head.</item>
+               <item>39. A Woman of <hi>Huber,</hi> which had great paines and ſtitches <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n her croſſe bone and right leg.</item>
+               <pb n="12" facs="tcp:113839:8"/>
+               <item> 40. A Woman of <hi>Quedlingburg,</hi> that had an inward hurt.</item>
+               <item>41. A Man of <hi>Aſhersleben,</hi> which ſuffered great torments in his body and legs.</item>
+               <item>42. A Youth of <hi>Barby,</hi> that had endured for thirty yeares great paines in his croſſe-bone, and had a ſcurffed head.</item>
+               <item>42. Another youth of the ſaid place, which got a hurt in one of his legs thirteene yeares a goe, whereby his veines and ſin<g ref="char:EOLhyphen"/>newes were ſprained.</item>
+               <item>43. A Boy of <hi>Cudlingburg</hi> which had a defect in his hearing.</item>
+               <item>44. A Man of the ſaid place, that had an old ſore from his youth, in his thigh.</item>
+               <item>45. A Woman of <hi>Staſtfurth,</hi> which got a hurt a quarter of a yeare a goe, in his arme and foot, was broken out, and tormented with great paines in his croſſe-bone, ſo that he could not move nor ſtir.</item>
+               <item>46. Another Woman of the ſaid place, which had a weake ſto<g ref="char:EOLhyphen"/>macke, digeſting and keeping nothing of that ſhe tooke.</item>
+               <item>47. A Woman that had a great ſtopage and crudity in her ſto<g ref="char:EOLhyphen"/>macke, and could not digeſt any victualls.</item>
+               <item>48. A Man of <hi>Aſhersleben,</hi> which was ſtrucken by an Apoplexie ſix yeares agoe, whereby he became lambe in both his hipps, and was ſcarce able to to ſpeake.</item>
+               <item>49. Another Man of the ſaid place, which had a terrible paine in his head.</item>
+               <item>50. A Womam of <hi>Brunwoode,</hi> which had great paines in all her limbs, and eſpecially in the croſſe-bone.</item>
+               <item>51. A Servant of <hi>Shoubech,</hi> that was mightily troubled with the Cholick.</item>
+               <item>52. A Man that three quarters of a yeare goe was bitten of a Dog and layd in the Phyſitians hands for halfe a yeare.</item>
+               <item>53. A Man of <hi>Aſhersleben,</hi> that had an old ſore on his foot.</item>
+               <item>54. Another of the ſaid place that had a broken Arme.</item>
+               <item>55. A ſervant of great <hi>Barnmerſleben,</hi> which had a defect in his hearing, and a ſore leg.</item>
+               <item>56. A woman of <hi>Dersdorff,</hi> that had a great infirmity in her bo<g ref="char:EOLhyphen"/>dy and back.</item>
+               <pb n="13" facs="tcp:113839:8"/>
+               <item> 57. Another woman of the ſame place, that had great paines and ſtitches in her hands.</item>
+               <item>58. A man of <hi>Cuedlingbourg,</hi> that had a long time a dead lame<g ref="char:EOLhyphen"/>neſſe, that he could hardly goe.</item>
+               <item>59. A woman of <hi>Snasburge,</hi> who had great paines in her back.</item>
+               <item>60. Another woman of the ſaid place, which had a great ſhoot<g ref="char:EOLhyphen"/>ing in her head, and rhume in her eyes.</item>
+               <item>61. A Boy of <hi>Weſterhauſen,</hi> that had the horrible diſeaſe in his gutts called <hi>Miſerere mei.</hi>
+               </item>
+               <item>62. A woman of <hi>Gerenrode,</hi> that had for two yeares great paines and ſtitches in her Croſſe bones, left hip and leg.</item>
+               <item>63. A woman of <hi>Hallenſleben,</hi> that had great paine in her thighs and legs.</item>
+               <item>64. Another woman of the ſaid place, that had a cold dead lame<g ref="char:EOLhyphen"/>neſſe.</item>
+               <item>65. A woman of <hi>Halberstadt,</hi> that was troubled with obſtru<g ref="char:EOLhyphen"/>ctions and crudities in her ſtomack.</item>
+               <item>66. A Boy of 12 yeares of age, which was ſtarck blind for foure yeares.</item>
+               <item>67. A Woman of <hi>Baſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lfeldt,</hi> that had foure yeares an extreame great paine in her leg.</item>
+               <item>68. An ancient Man of <hi>Cuedlinsbourg,</hi> which was dim-ſighted from his Infancie.</item>
+               <item>69. A Maid, which had great paines in her body.</item>
+               <item>79. A Woman of <hi>Bottingen,</hi> that had great Stitches and ſhooting in her head.</item>
+               <item>71. The ſame womans Daughter, that had an old Sore in her hand.</item>
+               <item>72. A Woman of <hi>Halberſtadt,</hi> that had a defect in her hearing, great ſhooting in her head, and the tooth-ach for a twelve moneth.</item>
+               <item>73. A Man of <hi>Wegleben,</hi> that had two yeares agoe broken one of his leggs, and quite cruſhed his bone.</item>
+               <item>74. A poore Man of <hi>Aſherſleben,</hi> that was tormented with the Diſeaſe called by the Phyſicians <hi>Noli me tangere.</hi>
+               </item>
+               <item>75. A Woman of <hi>Diſsford,</hi> that had for a twelve moneth a ſwol<g ref="char:EOLhyphen"/>len Lameneſſe in both hands, with grrat ſtitches in her left ſide.</item>
+               <pb n="14" facs="tcp:113839:9"/>
+               <item> 76. The ſame Womans Sonne, that had from his infancy a ſtink<g ref="char:EOLhyphen"/>ing bloody running Sore in his eare.</item>
+               <item>77. A Woman of <hi>Cueddlinsbourg,</hi> that had a Sore on her neck.</item>
+               <item>78. A Schoole-boy of the ſaid place, that had a Sore in his eye.</item>
+               <item>79. A Maid of the ſaid place, that had a great Sore and paine in her knee.</item>
+               <item>80. A Woman of <hi>St<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford,</hi> that had been lame 18 yeares in one of her legs, and great paines and ſtitches in her croſſe bone.</item>
+               <item>81. A man of <hi>Haderſleden,</hi> that had great paines and ſtitches in both his legs, that he was hardly able to goe.</item>
+               <item>82. Another Man of <hi>Cuedſlingbourg,</hi> that had great paine and ſhooting in his head for 9 yeares.</item>
+               <item>83. Another Woman of the ſaid place, that had a paine in her back, and Croſſe bone, and was alſo lame in her armes and leggs.</item>
+               <item>84. Another Woman of the ſame place, that got in her child<g ref="char:EOLhyphen"/>birth, a thick ſwollen neck.</item>
+               <item>85. A Man of the ſaid place, had a ſtiffneſſe in his knees for three yeares.</item>
+               <item>86. A Woman of the ſaid place, that had an old Sore round a bout one of her legs for 19 yeares.</item>
+               <item>87. A Man of <hi>Shekein,</hi> that in his ſickneſſe two yeares agoe got paine in his eyes, ſo that he could ſee with one a little, and with the other nothing at all.</item>
+               <item>88. A Woman of <hi>Cueddlingbourg,</hi> that had a thick ſwollen Neck, with a great paine and lameneſſe in her armes.</item>
+               <item>89. A little Girle of the ſaid place, that had a great rhume in both her eyes.</item>
+               <item>90 A Boy of the ſaid place, had a great Sore in one of his eyes.</item>
+               <item>91. A Woman of <hi>Staſsford,</hi> that had a lame hand, and defect in her hearing.</item>
+               <item>92. A Man of <hi>Bermerſleben,</hi> that was extreamly pained with the Cholick.</item>
+               <item>93. A Young man of <hi>Beesfeld,</hi> that was troubled with Melan<g ref="char:EOLhyphen"/>choly thoughts.</item>
+               <item>94. A Man of <hi>Stasford,</hi> that had an old hurt on his legg for two yeares.</item>
+               <pb n="15" facs="tcp:113839:9"/>
+               <item> 95. A Boy of the ſaid place, that was troubled with the Stone, and had a ſore throat.</item>
+               <item>96. A Man of <hi>Ko<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> that had great paines by the ſtoppage and crudity in his ſtomack.</item>
+               <item>97. A Woman of <hi>Stasford,</hi> that had a defect in her hearing.</item>
+               <item>98. A Man of <hi>Aſhurſleben,</hi> that had an old ſore on one of his legs for 5 yeares.</item>
+               <item>99. A Girle of 4 years old, borne at <hi>Salze,</hi> that had the Leproſie ſpread over his whole body.</item>
+               <item>100. A Man of <hi>Koken,</hi> that was vehemently troubled with the Cholick for 9 yeares.</item>
+               <item>101. A Girle of <hi>Sla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtet,</hi> that had 5 yeares a dangerous Sore on her leg.</item>
+               <item>102. A Man of the ſame place, that had ſtrained his foot, and could not goe well for two yeares.</item>
+               <item>103. A Man of <hi>Barby,</hi> that had an old hurt on his leg, paines in his body, and ſtiching in his left ſide.</item>
+               <item>104. Another Man of <hi>Barby,</hi> that had a defect in his Lights and Liver, with a very heavy Cough.</item>
+               <item>105. A Man of <hi>Elrode,</hi> that was tormented with the Cholick, for three yeares, and with the ſtitching in his left ſide.</item>
+               <item>106. A man of <hi>Gerurode,</hi> that had a great paine for twenty yeares in his Croſſe-bone, and a cold lameneſſe in his legs.</item>
+               <item>107. A Woman of <hi>Barby,</hi> that had great ſhooting in her head for ſeven yeares.</item>
+               <item>108. A Man of the ſaid place, had a difficultie in hearing for ſe<g ref="char:EOLhyphen"/>ven yeares.</item>
+               <item>109. A Maid of the ſame place, that got a rheume in her eyes three yeares agoe, ſo that with one of them ſhe could ſee almoſt no<g ref="char:EOLhyphen"/>thing at all.</item>
+               <item>110. Another Maid of the fame place, that had a lameneſſe in one of her thighs, which ſhe ſtrained foure yeares agoe.</item>
+               <item>111. Another Maid which had a ſtiffe legge for two yeares.</item>
+               <item>112. A Maid of <hi>Eiſleben,</hi> that had a very ſhort breath with a Cough.</item>
+               <item>113. A woman of <hi>Halberſtadt,</hi> that had her mouth and arme bro<g ref="char:EOLhyphen"/>ken out.</item>
+               <pb n="16" facs="tcp:113839:10"/>
+               <item>114. Another woman of the ſame place, that had a very craſie body.</item>
+               <item>115. Another Woman of the ſame place, that had an inward bruiſe in her body, and the running Gout in her armes.</item>
+               <item>116. A Boy of five yeares of age of the ſame place that was Speechleſſe.</item>
+               <item>117. A Woman of <hi>Mansfeld,</hi> that had ſore Eyes for 6 yeares, and great paines and ſtitches in her Croſſe-bone, and in one of her leggs.</item>
+               <item>118. A Girle of <hi>Barby,</hi> that could not ſee with one of her eyes for a twelve moneth.</item>
+               <item>119. A woman of <hi>Quippelzerbſt,</hi> which had great paines and ſtitches in her legs, ſo that ſhe went upon Cruches, which ſhe left here behind.</item>
+               <item>120. A Man of <hi>Swanbeck,</hi> that had for ſix years a lame and croo<g ref="char:EOLhyphen"/>ked legge, ſo that he could ſcarce goe with the help of a ſtaffe.</item>
+               <item>121. A Boy of <hi>Wegeleben,</hi> which had a ſwelling and ſtitching in both his legs.</item>
+               <item>122. A Man of <hi>Roſe,</hi> which had for eight yeares the diſeaſe in his guts.</item>
+               <item>123. A Girle of <hi>Disford,</hi> that was ſtrucken with an Appoplexie, whereof ſhe fell lame in one of her Armes.</item>
+               <item>124. A Man of <hi>Cothen,</hi> that had a ſhort knee, felt great paines and ſtitches therein, and could not ſtretch his legge.</item>
+               <item>125. A Woman of <hi>Slawſtet,</hi> which had a great paine in all her limbes, with a heavy Cough.</item>
+               <item>126. A Woman of <hi>Aſherſleben,</hi> which had a great paine in her thighs.</item>
+               <item>127. Another Woman of <hi>Aſherſleben,</hi> that was much oppreſſed with Melancholy.</item>
+               <item>128. A Woman of <hi>Hemerſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ben,</hi> that was lame both on hands and feet for twenty eight yeares, ſo that ſhe could not ſtir out of her bed for a twelve moneth.</item>
+               <item>129. A Woman of <hi>Groningen,</hi> that had great ſtoppages and op<g ref="char:EOLhyphen"/>preſſions in the breaſt, ſo that ſhe knew not what to doe for paines ſhe endured.</item>
+               <pb n="17" facs="tcp:113839:10"/>
+               <item> 130. A Child of <hi>B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>by,</hi> which had crooked heeles, ſo that he went inwards, which were made ſtraight againe.</item>
+               <item>131. A Man of <hi>Harſleb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> that had an old hurt in his leggs, that bee could hardly goe.</item>
+               <item>132. A Man of <hi>Baſſen,</hi> which had diſjointed his leg three yeares agoe, and is almoſt recovered.</item>
+               <item>133. A Man of <hi>Mansfeld,</hi> which hath bin very ill handled by the Souldiers, ſo that he fell deaſe and loſt one of his eyes, and with the other ſeeing for a time a little, became afterwards ſtarke blind. But now he hath recovered his ſight.</item>
+               <item>134. A Woman of <hi>Haſelfeld,</hi> that had a lame thigh for three and twenty yeares, with great paines and ſtitching in it.</item>
+               <item>135. A Woman of <hi>Dinderſtein;</hi> which had a great ſtitching at the heart for two yeares.</item>
+               <item>136. A Woman of <hi>Stresburg,</hi> which was ſtrucken with a dead palſie both on her hand and feet for ſeven yeares, ſo that ſhe could ſtir no where.</item>
+               <item>137. A Woman of <hi>Badeſaſt,</hi> which had great paines and tor<g ref="char:EOLhyphen"/>ments in one of her legs.</item>
+               <item>138. A Man of <hi>Cothen,</hi> that had paines and ſtitching in his arms and legs.</item>
+               <item>139. A Man of <hi>Furſta,</hi> which had a wenne or Carnoſity on his necke.</item>
+               <item>140. A Woman of <hi>Roben,</hi> which had great paines and torments in her head.</item>
+               <item>141. A Girle of the ſame place, which for five yeares did but lall doth now ſpeake very diſtinct.</item>
+               <item>142. A Woman that had a bloody iſſue.</item>
+               <item>143. A Woman of <hi>Ilſenburg,</hi> that had very old feſtred ſores in her left Arme and left leg enduring huge paines.</item>
+               <item>144. A little Boy of <hi>Halberſtad,</hi> that had a rheume in one of his eyes; that he could ſcarce ſee with it.</item>
+               <item>145. A Woman of <hi>Quedlingburg,</hi> which was ſtrucken with the dead palſie on both hands and on the right foot.</item>
+               <item>146. A Man of <hi>Grunrode,</hi> which had a huge paine in his croſſe<g ref="char:EOLhyphen"/>bone, ſo that ſometimes he could not ſtir out of his bed.</item>
+               <pb n="8" facs="tcp:113839:11"/>
+               <item> 147. A Woman of <hi>Ballinſtet,</hi> which had defect in her eye, and a lame hand.</item>
+               <item>148. A Girle of <hi>Halberſtad,</hi> which had a dangerous rhume fallen into her eyes.</item>
+               <item>149. A Woman of the ſaid place, that had great paines in her body, arms and leggs, which ſhee got in her Childbirth la<g ref="char:EOLhyphen"/>bour.</item>
+               <item>150. A Man of <hi>Kalbe,</hi> that had the Convulſion fits.</item>
+               <item>151. A Boy which had an Ague for three quarters of a yeare.</item>
+               <item>152. A Girle of <hi>Stolberg,</hi> that had rhumes fallen into her hands.</item>
+               <item>153. A Boy of the ſame place, which was lame on both legs.</item>
+               <item>154. A Boy of <hi>Qued<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lingburg,</hi> that had a ſcurffed head,</item>
+               <item>155. A Woman of the ſaid place, that had a ſcuiffed head.</item>
+               <item>156. A Woman of the ſaid place, which had great paines in her armes and b<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k.</item>
+               <item>157. A Boy of <hi>Kalbe,</hi> which had a defect in hearing, and a rup<g ref="char:EOLhyphen"/>ture.</item>
+               <item>158. A Girle of <hi>Hoc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtett,</hi> that was dumbe and deafe.</item>
+               <item>159. A Woman of <hi>Halberſtadt</hi> which had the Cholick for foure yeares.</item>
+               <item>160. A Man of <hi>Aſhersleben,</hi> which was ſhort through his throat.</item>
+               <item>161. A Girle of the ſaid place, which had rhumes in her head and legs.</item>
+               <item>162. A Woman of <hi>Griffenhagen,</hi> which had a great infirmities in her body.</item>
+               <item>163. A Girle of <hi>Stolberg<g ref="char:punc">▪</g>
+                  </hi> which had a thume in her hand.</item>
+               <item>164. A Woman of <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wich</hi> that was ſore oppreſſed, with heavi<g ref="char:EOLhyphen"/>neſſe of heart, ſo that ſhe was allmoſt diſtracted in mind.</item>
+               <item>195. A Girle of <hi>Stolberg,</hi> which had a thick ſwollen neck.</item>
+               <item>196. A Souldier of <hi>Haderſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ben,</hi> which had a defect in his hea<g ref="char:EOLhyphen"/>ring.</item>
+               <item>167. A Man of the ſaid place, that was troubled with oppreſſions in his breaſt, and had an old hurt in his leg.</item>
+               <item>168. A Woman of the ſame place, which had a paine for two yeares in her arms and legs, and was troubled with rhumes in her eyes, that ſhe could not ſee allmoſt.</item>
+               <pb n="19" facs="tcp:113839:11"/>
+               <item> 169. A Boy of <hi>F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had a great weakneſſe and paines through all his limbs.</item>
+               <item>170. A Child of North <hi>G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmers L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ben,</hi> that fell lame of a greene ſickneſſe.</item>
+               <item>171. A Woman of <hi>Cothen,</hi> which was mightily tormented with the ſtone for eight yeares, whereof ſhe got an Impoſtume in her kidneys, and having uſed a Phyſitian, in vaine for foure yeares, recovered here in eight dayes, confeſſing that this wa<g ref="char:EOLhyphen"/>ter had driven of from her a great deale of ſandy and other ſharpe congealed matter.</item>
+               <item>172. A Woman of <hi>Heinroda,</hi> which had ſor a yeare and a halfe great paines and ſtitching in her left knee, and great torment in her croſſe-bone and back,</item>
+               <item>173. A Woman of <hi>Roden,</hi> which had the Convulſion fits for nine yeares.</item>
+               <item>174. A Woman of <hi>Wernſtet,</hi> which had a lame leg and was mightily troubled with winds and ſtitches, and ſomewhat di<g ref="char:EOLhyphen"/>ſtracted in her head.</item>
+               <item>175. A Man of <hi>Keltern,</hi> which had great paines and obſtructi<g ref="char:EOLhyphen"/>ons in his breaſt, and was much tormented with wind.</item>
+               <item>176. A Man of <hi>Arnſl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ben,</hi> that was pained for eight yeares with ſtitches and winds in his legs.</item>
+               <item>177. Another of the ſame place, that was alſo troubled with the ſame diſeaſe in his arms and legs.</item>
+               <item>178. A Man of <hi>Clothen,</hi> which had great paines, winds and ſtit<g ref="char:EOLhyphen"/>ches in h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s back, ſo that he was forced to goe with cruches, which he left there behind him.</item>
+               <item>179. A Woman that was lame bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h in her armes and legs.</item>
+               <item>180. A Man of <hi>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſdorf,</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat was troubled with ſtitching in his ſides, and with oppreſſions and faintneſſe of heart, ſo that he could not take any victualls.</item>
+               <item>181. A Woman of <hi>Mekern,</hi> which had a ſtifneſſe in her leg for twenty yeares.</item>
+               <item>182. A Woman of <hi>G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</hi> which had ſore eyes for foure yeares.</item>
+               <item>183. A Girle which had a ſcu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffed head.</item>
+               <item>194. A Woman of <hi>Aſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ersleben,</hi> which had a lamneſſe in both legs, taking no reſt day nor night, for the great paines and torments in them.</item>
+               <pb n="20" facs="tcp:113839:12"/>
+               <item> 185. A Woman of the ſaid place, which had the croſſe-bone in her back bruiſed.</item>
+               <item>186. Another Woman of the ſaid place, which had a ſwelling in her body, and was troubled with the ſtone in the kidneys.</item>
+               <item>187. A Woman of <hi>Quedlingburg,</hi> which was tormented with the running goute in all her limbes for two yeares.</item>
+               <item>188. A Woman of <hi>Zerbeſt,</hi> which was troubled with rheumes in her head.</item>
+               <item>189. A Girle of <hi>Zerbeſt,</hi> which of her falling ſickneſſe, got a giddineſſe in her head.</item>
+               <item>190. A Boy of <hi>Wooluersleben,</hi> which had rheumes in his eyes, and was pained with the ſtone.</item>
+               <item>191. A Man of <hi>Cothen,</hi> which had great paines in one of his hipps</item>
+               <item>192. A Maid of <hi>Zerbſt,</hi> which was dim-ſighted.</item>
+               <item>193. Mr. <hi>Valentia Sharff,</hi> Captain of the Town of <hi>Northauſen,</hi> who had the Gout both on hands and feet, ſo that hee could neither ſtand nor goe, is likewiſe recovered.</item>
+               <item>194. A Boy of <hi>Egals,</hi> which got a ſhort leg of the plague hee had nine yeares agoe, ſo that he was forced to weare a high ſhooe, is allmoſt recovered.</item>
+               <item>195. A Man of <hi>Cothen,</hi> which fell lame foure yeares agoe on hands and feet, ſo that hee went upon cruches, which he left there behind him.</item>
+               <item>196. A Man of <hi>Heiligen,</hi> that had a running Sore in one of his legs for foure yeares continually.</item>
+               <item>197. A Maid, that had a great Rupture, and is ſomewhat re<g ref="char:EOLhyphen"/>covered.</item>
+               <item>198. A Girle, that had a ſwollen thick neck.</item>
+               <item>199. A Man, that had a Fiſtula or running Sore in one of his cheekes.</item>
+               <item>200. A Man, that had the running Gout both on hands and feet.</item>
+               <item>201. A woman, that had a dangerous Rheume ſpread over all her face.</item>
+               <item>202. A Man of <hi>Egals,</hi> which had an old hurt for five yeares on his ſhin-bone,</item>
+               <item>203. A woman of <hi>Swanbecke,</hi> had the running Gout, through all her limbs, and was deafe with the right eare.</item>
+               <pb n="21" facs="tcp:113839:12"/>
+               <item> 204. A woman of <hi>Cothen,</hi> that was extreamly pained with head<g ref="char:EOLhyphen"/>ach, running Gout in her legs, and oppreſſions of heart.</item>
+               <item>205. A Boy of <hi>Wanegarde,</hi> that had a ſcurffed head of foure yeares.</item>
+               <item>206. A Girle of the ſaid place, that had the ſaid Diſeaſe.</item>
+               <item>207. A Woman of <hi>Alrode,</hi> that was troubled with ſhaking and trembling.</item>
+               <item>208. A Woman of <hi>Konewda,</hi> that had the running Gout in her leggs.</item>
+               <item>209. A Woman of <hi>Falkenſtein,</hi> that had great paines in the Croſſe-bone.</item>
+               <item>210. A Girle of the ſaid place, that was troubled with a running Sore in her leg.</item>
+               <item>211. A Man of <hi>Egals,</hi> which had a defect in his Liver and Lights for a yeere and a halfe.</item>
+               <item>112. A Woman of <hi>Halberſtadt,</hi> that was troubled with faintneſſe of heart, ſhortneſſe of breath, and a very heavy Cough.</item>
+               <item>213. A Girle of the ſaid place that had a ſore eye.</item>
+               <item>214. A Boy of the ſaid place, that had old hurts on his leggs, ſo that they became crooked, and was ſcarce able to goe.</item>
+               <item>215. A Man of <hi>Cuedlinbourg,</hi> which was lame both on hands and feet for twenty yeares, and went upon Cruches for many yeares, which he left behind him there.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
